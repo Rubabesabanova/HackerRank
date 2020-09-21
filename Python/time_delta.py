@@ -2,7 +2,6 @@
 # Link : https://www.hackerrank.com/challenges/python-time-delta/problem
 # Language : Python 3
 
-
 import math
 import os
 import random
